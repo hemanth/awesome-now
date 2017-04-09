@@ -39,3 +39,7 @@ Awesome list of `now.sh` deployments.
 * [login-with.now.sh](https://login-with.now.sh/) -> Stateless authentication microservice for social logins.
 
 * [deploy.now.sh](https://deploy.now.sh/) -> Deploy to now instantly.
+
+* [micro-link.now.sh](https://micro-link.now.sh/) -> Generate and resolve sharable dynamic link (a.k.a deeplink).
+
+* [stage.now.sh](https://stage.now.sh/) -> staging environments made simple and realtime.
