@@ -14,4 +14,20 @@ Awesome list of `now.sh` deployments.
 
 * [foreign-fetch.now.sh](https://foreign-fetch.now.sh) -> Foreign fetch SW.
 
-* [nvm.now.sh](https://nvm.now.sh) -> Latest `nvm` setup script. 
+* [nvm.now.sh](https://nvm.now.sh) -> Latest `nvm` setup script.
+
+* [greenhouse.now.sh](https://greenhouse.now.sh/) -> Climate change.
+
+* [packd.now.sh](https://packd.now.sh/) -> Rollup/Browserify as a service.
+
+* [illustrated-algorithms.now.sh](https://illustrated-algorithms.now.sh/) -> Illustrated Algorithms.
+
+* [newton.now.sh](https://newton.now.sh/) -> A really micro micro-service for advanced math.
+
+* [colors.now.sh](https://colors.now.sh/material/red) -> A Material Design color browser and picker. Supports HEX, RGB, and HSL formats.
+
+* [icon.now.sh](https://icon.now.sh/) -> SVG placeholder microservice.
+
+* [lost-in-translation.now.sh)](https://lost-in-translation.now.sh) -> Lost in translation?
+
+* [everyonetweetz.now.sh](https://everyonetweetz.now.sh/) -> Everyone tweetz.
