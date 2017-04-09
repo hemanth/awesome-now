@@ -31,3 +31,11 @@ Awesome list of `now.sh` deployments.
 * [lost-in-translation.now.sh)](https://lost-in-translation.now.sh) -> Lost in translation?
 
 * [everyonetweetz.now.sh](https://everyonetweetz.now.sh/) -> Everyone tweetz.
+
+* [thoughtcomplete.now.sh](https://thoughtcomplete.now.sh/) ->  Experiment with Twitter search API to type ahead of what you are thinking.
+
+* [bitcoin.now.sh](https://bitcoin.now.sh/) -> Bitcoin value info.
+
+* [login-with.now.sh](https://login-with.now.sh/) -> Stateless authentication microservice for social logins.
+
+* [deploy.now.sh](https://deploy.now.sh/) -> Deploy to now instantly.
