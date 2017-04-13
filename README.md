@@ -28,7 +28,7 @@ Awesome list of `now.sh` deployments.
 
 * [icon.now.sh](https://icon.now.sh/) -> SVG placeholder microservice.
 
-* [lost-in-translation.now.sh)](https://lost-in-translation.now.sh) -> Lost in translation?
+* [lost-in-translation.now.sh](https://lost-in-translation.now.sh) -> Lost in translation?
 
 * [everyonetweetz.now.sh](https://everyonetweetz.now.sh/) -> Everyone tweetz.
 
