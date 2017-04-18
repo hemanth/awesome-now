@@ -46,4 +46,7 @@ Awesome list of `now.sh` deployments.
 
 * [snippets.now.sh](https://snippets.now.sh/) -> Sublime Text, Atom & VS Code snippet generator.
 
-* [onionite.now.sh](https://onionite.now.sh/) -> Explore the Tor network
+* [onionite.now.sh](https://onionite.now.sh/) -> Explore the Tor network.
+
+* [domain.now.sh](https://domain.now.sh/) -> Check domain avaliability. 
+
