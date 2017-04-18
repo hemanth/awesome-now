@@ -43,3 +43,7 @@ Awesome list of `now.sh` deployments.
 * [micro-link.now.sh](https://micro-link.now.sh/) -> Generate and resolve sharable dynamic link (a.k.a deeplink).
 
 * [stage.now.sh](https://stage.now.sh/) -> staging environments made simple and realtime.
+
+* [snippets.now.sh](https://snippets.now.sh/) -> Sublime Text, Atom & VS Code snippet generator.
+
+* [onionite.now.sh](https://onionite.now.sh/) -> Explore the Tor network
