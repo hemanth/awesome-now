@@ -48,5 +48,7 @@ Awesome list of `now.sh` deployments.
 
 * [onionite.now.sh](https://onionite.now.sh/) -> Explore the Tor network.
 
-* [domain.now.sh](https://domain.now.sh/) -> Check domain avaliability. 
+* [domain.now.sh](https://domain.now.sh/) -> Check domain availability. 
+
+* [rebass-beta.now.sh](https://rebass-beta.now.sh/) -> React functional UI component design system.
 
