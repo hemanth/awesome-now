@@ -56,3 +56,5 @@ Awesome list of `now.sh` deployments.
 
 * [fontkit-demo.now.sh](https://fontkit-demo.now.sh/) -> Fontkit preview.
 
+* [prop-tc39.now.sh](https://prop-tc39.now.sh/) -> TC39 proposals.
+
