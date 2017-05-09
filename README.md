@@ -54,3 +54,5 @@ Awesome list of `now.sh` deployments.
 
 * [tweets.now.sh](https://tweets.now.sh/) -> Twitter Lite clone built with React + react-virtualized.
 
+* [fontkit-demo.now.sh](https://fontkit-demo.now.sh/) -> Fontkit preview.
+
