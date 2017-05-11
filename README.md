@@ -60,3 +60,5 @@ Awesome list of `now.sh` deployments.
 
 * [unfurl.now.sh](https://unfurl.now.sh/) -> Small microservice that unfurls a URL and returns the OpenGraph meta data.
 
+* [mailto.now.sh](https://mailto.now.sh/) -> HTML mailto's made easy.
+
