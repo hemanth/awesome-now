@@ -58,3 +58,5 @@ Awesome list of `now.sh` deployments.
 
 * [prop-tc39.now.sh](https://prop-tc39.now.sh/) -> TC39 proposals.
 
+* [unfurl.now.sh](https://unfurl.now.sh/) -> Small microservice that unfurls a URL and returns the OpenGraph meta data.
+
