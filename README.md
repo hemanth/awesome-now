@@ -62,3 +62,7 @@ Awesome list of `now.sh` deployments.
 
 * [mailto.now.sh](https://mailto.now.sh/) -> HTML mailto's made easy.
 
+* [unixtime.now.sh](https://unixtime.now.sh/) -> UNIX time.
+
+
+
