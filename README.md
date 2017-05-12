@@ -64,5 +64,5 @@ Awesome list of `now.sh` deployments.
 
 * [unixtime.now.sh](https://unixtime.now.sh/) -> UNIX time.
 
-
+* [webtorrentify.now.sh](https://webtorrentify.now.sh/) -> Auto-generate `.torrent` files from "normal" URLs.
 
