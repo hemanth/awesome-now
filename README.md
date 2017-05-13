@@ -68,3 +68,8 @@ Awesome list of `now.sh` deployments.
 
 * [stats.now.sh](https://stats.now.sh/) -> stats now.
 
+* [present.now.sh](https://present.now.sh) -> a proof of concept for frontend microservices.
+
+* [juice.now.sh](https://juice.now.sh/) -> Automattic's juice CSS inliner as a microservice.
+
+* [favgen.now.sh](https://favgen.now.sh/) -> Random favicon generator.
