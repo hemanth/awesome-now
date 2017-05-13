@@ -66,3 +66,5 @@ Awesome list of `now.sh` deployments.
 
 * [webtorrentify.now.sh](https://webtorrentify.now.sh/) -> Auto-generate `.torrent` files from "normal" URLs.
 
+* [stats.now.sh](https://stats.now.sh/) -> stats now.
+
