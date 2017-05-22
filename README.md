@@ -25,6 +25,8 @@ Awesome list of `now.sh` deployments.
 
 * [newton.now.sh](https://newton.now.sh/) -> A really micro micro-service for advanced math.
 
+* [color.now.sh](https://color.now.sh) -> A simple micro-service for color functions.
+
 * [colors.now.sh](https://colors.now.sh/material/red) -> A Material Design color browser and picker. Supports HEX, RGB, and HSL formats.
 
 * [icon.now.sh](https://icon.now.sh/) -> SVG placeholder microservice.
