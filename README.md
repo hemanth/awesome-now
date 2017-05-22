@@ -1,6 +1,7 @@
 # awesome-now
 Awesome list of `now.sh` deployments. 
 
+* [up.now.sh](https://up.now.sh) -> Verify if a host is online.
 
 * [cors.now.sh](https://cors.now.sh) -> reverse proxy with CORS headers.
 
