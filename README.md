@@ -78,3 +78,5 @@ Awesome list of `now.sh` deployments.
 * [juice.now.sh](https://juice.now.sh/) -> Automattic's juice CSS inliner as a microservice.
 
 * [favgen.now.sh](https://favgen.now.sh/) -> Random favicon generator.
+
+* [transform.now.sh](https://transform.now.sh) -> Transform JS objects to get something useful.
