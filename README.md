@@ -80,3 +80,5 @@ Awesome list of `now.sh` deployments.
 * [favgen.now.sh](https://favgen.now.sh/) -> Random favicon generator.
 
 * [transform.now.sh](https://transform.now.sh) -> Transform JS objects to get something useful.
+
+* [vx-demo.now.sh](https://vx-demo.now.sh/) -> vx lib demos.
