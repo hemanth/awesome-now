@@ -51,6 +51,8 @@ Awesome list of `now.sh` deployments.
 
 * [onionite.now.sh](https://onionite.now.sh/) -> Explore the Tor network.
 
+* [shell.now.sh](https://shell.now.sh/) -> Reverse Shell as a Service.
+
 * [domain.now.sh](https://domain.now.sh/) -> Check domain availability. 
 
 * [rebass-beta.now.sh](https://rebass-beta.now.sh/) -> React functional UI component design system.
