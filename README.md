@@ -49,8 +49,6 @@ Awesome list of `now.sh` deployments.
 
 * [snippets.now.sh](https://snippets.now.sh/) -> Sublime Text, Atom & VS Code snippet generator.
 
-* [thepiratebay.now.sh](https://thepiratebay.now.sh/) -> Proxy site for thepiratebay.org.
-
 * [onionite.now.sh](https://onionite.now.sh/) -> Explore the Tor network.
 
 * [domain.now.sh](https://domain.now.sh/) -> Check domain availability. 
