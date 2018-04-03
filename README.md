@@ -84,3 +84,7 @@ Awesome list of `now.sh` deployments.
 * [vx-demo.now.sh](https://vx-demo.now.sh/) -> vx lib demos.
 
 * [esmodules.now.sh](https://esmodules.now.sh/) -> Demo ES Modules in conjunction with the `.mjs`.
+
+* [carbon.now.sh](https://carbon.now.sh/) -> Create and share beautiful images of your source code.
+
+* [planner.now.sh](https://planner.now.sh) -> Planner PWA.
