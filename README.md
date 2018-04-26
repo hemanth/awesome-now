@@ -88,3 +88,5 @@ Awesome list of `now.sh` deployments.
 * [carbon.now.sh](https://carbon.now.sh/) -> Create and share beautiful images of your source code.
 
 * [planner.now.sh](https://planner.now.sh) -> Planner PWA.
+
+* [jsx-live.now.sh](https://jsx-live.now.sh) -> JSX Live Editor.
