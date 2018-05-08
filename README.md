@@ -91,4 +91,4 @@ Awesome list of `now.sh` deployments.
 
 * [jsx-live.now.sh](https://jsx-live.now.sh) -> JSX Live Editor.
 
-8 [northwind.now.sh](https://northwind.now.sh) -> A Northwind database API
+* [northwind.now.sh](https://northwind.now.sh) -> A Northwind database API
