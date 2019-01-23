@@ -96,3 +96,5 @@ Awesome list of `now.sh` deployments.
 * [github-contributions.now.sh](https://github-contributions.now.sh/) -> GitHub Contributions Chart Generator.
 
 * [asciiartgen.now.sh](https://asciiartgen.now.sh) -> ASCII art generator.
+
+* [fakeql.now.sh](https://fakeql.now.sh) -> JSON sample data extender and API mocking server.
