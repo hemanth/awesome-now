@@ -7,6 +7,8 @@ Awesome list of `now.sh` deployments.
 
 * [ws.now.sh](https://ws.now.sh) -> Secured websocket.
 
+* [blob.now.sh](https://blob.now.sh) -> XML blob generator.
+
 * [sse.now.sh](https://sse.now.sh) -> A simple node server with Server Sent Events.
 
 * [breathe.now.sh](https://breathe.now.sh) -> Breathing meditation.
